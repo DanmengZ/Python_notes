@@ -5,3 +5,7 @@ Notes on learning Python-100-Days
 - 语言元素
 - 分支结构
 - 循环结构
+## [Day2](./day2)
+构造程序逻辑
+  1. 找水仙花数 [daffodils_numbers](./day2/daffodils_numbers)
+  2. 百钱百鸡[hundred_chickens](./day2/hundred_chickens)
